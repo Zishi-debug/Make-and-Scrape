@@ -1,0 +1,1828 @@
+{
+  "name": "otaku",
+  "url": "https://en.wikipedia.org/wiki/Otaku",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Good_articles",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otakou",
+        "text": "Otakou"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kotaku",
+        "text": "Kotaku"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Akihabara_picture.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Akihabara_picture.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akihabara",
+        "text": "Akihabara"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime",
+        "text": "Anime"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga",
+        "text": "manga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Anime_eye.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/History_of_anime",
+        "text": "History"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Voice_acting_in_Japan",
+        "text": "Voice acting"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_anime_companies",
+        "text": "Companies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_Japanese_animation_studios",
+        "text": "Studios"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Original_video_animation",
+        "text": "Original video animation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Original_net_animation",
+        "text": "Original net animation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fansub",
+        "text": "Fansub"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fandub",
+        "text": "Fandub"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lists_of_anime",
+        "text": "Lists"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_anime_series_by_episode_count",
+        "text": "Longest series"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_anime_franchises_by_episode_count",
+        "text": "Longest franchises"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/History_of_manga",
+        "text": "History"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_manga_publishers",
+        "text": "Publishers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga_outside_Japan",
+        "text": "International market"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga_artist",
+        "text": "Manga artist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doujinshi",
+        "text": "Doujinshi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alternative_manga",
+        "text": "Alternative"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gekiga",
+        "text": "Gekiga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yonkoma",
+        "text": "Yonkoma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga_iconography",
+        "text": "Iconography"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Scanlation",
+        "text": "Scanlation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lists_of_manga",
+        "text": "Lists"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_best-selling_manga",
+        "text": "Best-selling series"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_manga_series_by_volume_count",
+        "text": "Longest series"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Children%27s_anime_and_manga",
+        "text": "Children"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga",
+        "text": "Shōnen"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sh%C5%8Djo_manga",
+        "text": "Shōjo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Seinen_manga",
+        "text": "Seinen"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Josei_manga",
+        "text": "Josei"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Anime_and_manga_by_genre",
+        "text": "Genres"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bara_(genre)",
+        "text": "Bara"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cooking_manga",
+        "text": "Cooking"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Harem_(genre)",
+        "text": "Harem"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Isekai",
+        "text": "Isekai"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lolicon",
+        "text": "Lolicon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Magical_girl",
+        "text": "Magical girl"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mecha_anime_and_manga",
+        "text": "Mecha"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otomechikku",
+        "text": "Otomechikku"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ryona",
+        "text": "Ryona"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Shotacon",
+        "text": "Shotacon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sports_manga",
+        "text": "Sports"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Teens%27_love",
+        "text": "Teens' love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yaoi",
+        "text": "Yaoi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yuri_(genre)",
+        "text": "Yuri"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_manga_artists",
+        "text": "Manga artists"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_anime_directors",
+        "text": "Anime directors"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_and_manga_fandom",
+        "text": "Fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_convention",
+        "text": "Conventions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_anime_conventions",
+        "text": "list"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_club",
+        "text": "Clubs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cosplay",
+        "text": "Cosplay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_music_video",
+        "text": "Anime music video"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yaoi_fandom",
+        "text": "Yaoi fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Glossary_of_anime_and_manga",
+        "text": "Glossary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ecchi",
+        "text": "Ecchi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hentai",
+        "text": "Hentai"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Moe_(slang)",
+        "text": "Moe"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime-influenced_animation",
+        "text": "Anime-influenced animation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/2.5D_musical",
+        "text": "2.5D musical"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_song",
+        "text": "Anime song"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Wikipe-tan_face.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Anime_and_manga",
+        "text": "Anime and manga&#32;portal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Anime_and_manga",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Anime_and_manga",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_language",
+        "text": "Japanese"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_and_manga",
+        "text": "anime, manga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Video_game",
+        "text": "video games"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Computer",
+        "text": "computers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akio_Nakamori",
+        "text": "Akio Nakamori"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga_Burikko",
+        "text": "Manga Burikko"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pejorative",
+        "text": "pejorative"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tsutomu_Miyazaki",
+        "text": "Tsutomu Miyazaki"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_and_manga_fandom",
+        "text": "Otaku subculture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam",
+        "text": "Mobile Suit Gundam"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comic_Market",
+        "text": "Comic Market"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nomura_Research_Institute",
+        "text": "Nomura Research Institute"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_idol",
+        "text": "idol"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/%E3%81%8A%E5%AE%85",
+        "text": "お宅"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Metaphor",
+        "text": "metaphorically"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Honorific_speech_in_Japanese",
+        "text": "honorific speech in Japanese"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Second_person_pronoun",
+        "text": "second-person pronoun"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_dialects#Eastern_and_Western_Japanese",
+        "text": "Western Japanese"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eiji_%C5%8Ctsuka",
+        "text": "Eiji Ōtsuka"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Motoko_Arai",
+        "text": "Motoko Arai"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gainax",
+        "text": "Gainax"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tottori_Prefecture",
+        "text": "Tottori Prefecture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Macross",
+        "text": "Macross"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hikaru_Ichijyo",
+        "text": "Hikaru Ichijyo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lynn_Minmay",
+        "text": "Lynn Minmay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hiragana",
+        "text": "hiragana"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Katakana",
+        "text": "katakana"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/R%C5%8Dmaji",
+        "text": "rōmaji"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akio_Nakamori",
+        "text": "Akio Nakamori"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lolicon",
+        "text": "lolicon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga_Burikko",
+        "text": "Manga Burikko"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tsutomu_Miyazaki",
+        "text": "Tsutomu Miyazaki"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Slasher_film",
+        "text": "slasher films"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Geek",
+        "text": "geek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nerd",
+        "text": "nerd"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_(person)",
+        "text": "fan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Loanword",
+        "text": "loanword"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_(person)",
+        "text": "fan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime",
+        "text": "anime"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga",
+        "text": "manga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_video_games",
+        "text": "Japanese video games"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_culture",
+        "text": "Japanese culture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otaku_USA",
+        "text": "Otaku USA"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gunbuster",
+        "text": "Gunbuster"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Usenet_group",
+        "text": "Usenet group"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otaku_no_Video",
+        "text": "Otaku no Video"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/William_Gibson",
+        "text": "William Gibson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Idoru",
+        "text": "Idoru"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caste_system",
+        "text": "caste system"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam",
+        "text": "Mobile Suit Gundam"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comiket",
+        "text": "Comic Market"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kaoru_Kobayashi_(murderer)",
+        "text": "Kaoru Kobayashi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Figure_moe_zoku",
+        "text": "figure moe zoku"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hiroki_Azuma_(critic)",
+        "text": "Hiroki Azuma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hayao_Miyazaki",
+        "text": "Hayao Miyazaki"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Academy_Award",
+        "text": "Academy Award"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spirited_Away",
+        "text": "Spirited Away"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Takashi_Murakami",
+        "text": "Takashi Murakami"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Venice_Biennale",
+        "text": "Venice Biennale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Venice_Biennale_of_Architecture",
+        "text": "Biennale Architecture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan",
+        "text": "Prime Minister of Japan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tar%C5%8D_As%C5%8D",
+        "text": "Taro Aso"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marie_Kondo",
+        "text": "Marie Kondo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akihabara",
+        "text": "Akihabara"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maid_caf%C3%A9",
+        "text": "maid cafés"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otome_Road",
+        "text": "Otome Road"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nagoya",
+        "text": "Nagoya"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nagoya_City_University",
+        "text": "Nagoya City University"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Hinagiku_Katsura_itasha_side_front_20090726.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Hinagiku_Katsura_itasha_side_front_20090726.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nissan_March",
+        "text": "Nissan March"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hayate_the_Combat_Butler",
+        "text": "Hayate the Combat Butler"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fujoshi",
+        "text": "fujoshi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yaoi",
+        "text": "yaoi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Homosexual",
+        "text": "homosexual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Reki-jo",
+        "text": "Reki-jo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_history",
+        "text": "Japanese history"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akiba-kei",
+        "text": "Akiba-kei"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akihabara",
+        "text": "Akihabara"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wotagei",
+        "text": "wotagei"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Itasha",
+        "text": "itasha"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bish%C5%8Djo_game",
+        "text": "bishōjo game"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eroge",
+        "text": "eroge"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mockumentary",
+        "text": "mockumentary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gainax",
+        "text": "Gainax"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Genshiken",
+        "text": "Genshiken"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comic_Party",
+        "text": "Comic Party"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Light_novel",
+        "text": "light novel"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Welcome_to_the_N.H.K.",
+        "text": "Welcome to the N.H.K."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hikikomori",
+        "text": "hikikomori"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/NEET",
+        "text": "NEETs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/WataMote",
+        "text": "WataMote"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otome_game",
+        "text": "otome game"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/No_More_Heroes_(video_game)",
+        "text": "No More Heroes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Travis_Touchdown",
+        "text": "Travis Touchdown"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otaku_Unite!",
+        "text": "Otaku Unite!"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Otaku_Girl",
+        "text": "Otaku Girl"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Railfantokyo.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Railfantokyo.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Railfan",
+        "text": "Railfans"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anorak_(slang)",
+        "text": "Anoraks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_idol",
+        "text": "Idol"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Moe_(slang)",
+        "text": "moe"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vocaloid",
+        "text": "Vocaloid"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dating_sim",
+        "text": "dating sim"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cosplay",
+        "text": "cosplay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maid_caf%C3%A9",
+        "text": "maid services"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_language",
+        "text": "Japanese"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime",
+        "text": "anime"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Manga",
+        "text": "manga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Japan",
+        "text": "Japan portal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Dragon-149393.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Speculative_fiction",
+        "text": "Speculative fiction portal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Video_games",
+        "text": "Video games portal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Akiba-kei",
+        "text": "Akiba-kei"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Daicon_III_and_IV_Opening_Animations",
+        "text": "Daicon III and IV Opening Animations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hikikomori",
+        "text": "Hikikomori"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanophile",
+        "text": "Japanophile"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanification",
+        "text": "Japanification"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nijikon",
+        "text": "Nijikon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hentai",
+        "text": "Hentai"
+      },
+      {
+        "href": "https://web.archive.org/web/20130703184904/http://news.mynavi.jp/news/2013/04/27/076",
+        "text": "\"自分のことを「オタク」と認識してる人10代は62％、70代は23％\""
+      },
+      {
+        "href": "http://news.mynavi.jp/news/2013/04/27/076/",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1080%2F09555803.2014.962565",
+        "text": "10.1080/09555803.2014.962565"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:145267918",
+        "text": "145267918"
+      },
+      {
+        "href": "http://web-japan.org/trends/business/bus050830.html",
+        "text": "\"Otaku Business Gives Japan's Economy a Lift\""
+      },
+      {
+        "href": "https://web.archive.org/web/20140314144838/http://web-japan.org/trends/business/bus050830.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8166-4974-7",
+        "text": "978-0-8166-4974-7"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-986-124-768-7",
+        "text": "978-986-124-768-7"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Super_Dimension_Fortress_Macross",
+        "text": "超 時空 要塞マクロス (Chō Jikū Yōsai Makurosu/Super Dimensional Fortress Macross)"
+      },
+      {
+        "href": "https://www.worldcat.org/oclc/897946266",
+        "text": "Debating otaku in contemporary Japan&#160;: historical perspectives and new horizons"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4725-9497-6",
+        "text": "978-1-4725-9497-6"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/897946266",
+        "text": "897946266"
+      },
+      {
+        "href": "http://neojaponisme.com/2008/04/07/can-otaku-love-like-normal-people/",
+        "text": "\"Can Otaku Love Like Normal People?\""
+      },
+      {
+        "href": "http://www.escholarship.org/uc/item/5zb9r8cr#",
+        "text": "\"おたく/ Otaku / Geek\""
+      },
+      {
+        "href": "https://web.archive.org/web/20181103210102/https://escholarship.org/uc/item/5zb9r8cr",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Cite_journal",
+        "text": "cite journal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:CS1_errors#missing_periodical",
+        "text": "help"
+      },
+      {
+        "href": "http://geekout.blogs.cnn.com/2011/09/12/otaku-is-it-a-dirty-word/",
+        "text": "\"Otaku: Is it a dirty word?\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130522190438/http://geekout.blogs.cnn.com/2011/09/12/otaku-is-it-a-dirty-word/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://gizmodo.com/5321350/japans-2+d-lovers-falling-in-love-with-a-body-pillow",
+        "text": "\"Japan's 2-D Lovers: Falling In Love with a Body Pillow\""
+      },
+      {
+        "href": "https://web.archive.org/web/20131201121104/http://gizmodo.com/5321350/japans-2+d-lovers-falling-in-love-with-a-body-pillow",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20130913140014/http://otakuusamagazine.com/Main/Home.aspx",
+        "text": "\"Home - Otaku USA Magazine\""
+      },
+      {
+        "href": "http://www.otakuusamagazine.com/Main/Home.aspx",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-300-15864-9",
+        "text": "978-0-300-15864-9"
+      },
+      {
+        "href": "http://observer.guardian.co.uk/life/story/0,6903,466391,00.html",
+        "text": "\"Modern boys and mobile girls\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Observer",
+        "text": "The Observer"
+      },
+      {
+        "href": "https://web.archive.org/web/20080706143608/http://observer.guardian.co.uk/life/story/0,6903,466391,00.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20080501103354/http://picnic.to/~ami/ool.htm",
+        "text": "\"公開質問状 (Open letter )\""
+      },
+      {
+        "href": "http://picnic.to/~ami/ool.htm",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20071216162834/http://search.japantimes.co.jp/cgi-bin/fd20050206t3.html",
+        "text": "\"Otaku harassed as sex-crime fears mount\""
+      },
+      {
+        "href": "http://search.japantimes.co.jp/cgi-bin/fd20050206t3.html",
+        "text": "the original"
+      },
+      {
+        "href": "http://www.upress.umn.edu/book-division/books/otaku",
+        "text": "\"Preface\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0816653515",
+        "text": "978-0816653515"
+      },
+      {
+        "href": "http://paper.wenweipo.com/2008/09/23/GJ0809230014.htm",
+        "text": "\"Otaku uses manga and anime to improve Foreign Affairs\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130603193105/http://paper.wenweipo.com/2008/09/23/GJ0809230014.htm",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.forbes.com/sites/amyschoenberger/2020/08/30/mariekondo/#4c69dc3c4500",
+        "text": "\"Marie Kondo on Sparking Joy in a Pandemic and the Life-Changing Magic of Becoming a KonMari Consultant\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Forbes",
+        "text": "Forbes"
+      },
+      {
+        "href": "https://web.archive.org/web/20110427005552/http://japan-guide.com/e/e3003.html",
+        "text": "\"Akihabara\""
+      },
+      {
+        "href": "http://www.japan-guide.com/e/e3003.html",
+        "text": "the original"
+      },
+      {
+        "href": "http://www.japantimes.co.jp/news/2013/02/02/national/cosplay-students-promote-nagoyas-highlights/",
+        "text": "\"'Cosplay' students promote Nagoya's highlights\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130701164211/http://www.japantimes.co.jp/news/2013/02/02/national/cosplay-students-promote-nagoyas-highlights/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tamaki_Sait%C5%8D",
+        "text": "Saitō, Tamaki"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8166-4974-7",
+        "text": "978-0-8166-4974-7"
+      },
+      {
+        "href": "https://jalopnik.com/5320386/itasha-japans-creepiest-car-fetish/",
+        "text": "\"Itasha: Japan's Creepiest Car Fetish\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130727111338/http://jalopnik.com/5320386/itasha-japans-creepiest-car-fetish/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://kotaku.com/5848520/behold-a-fleet-of-cars-owned-by-nerds/",
+        "text": "\"Behold. A Fleet of Cars Owned by Nerds\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130824161631/http://kotaku.com/5848520/behold-a-fleet-of-cars-owned-by-nerds/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.animenewsnetwork.com/buried-treasure/2007-11-15",
+        "text": "\"Buried Treasure - In Praise of Nerdiness\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130729055645/http://www.animenewsnetwork.com/buried-treasure/2007-11-15",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.animenewsnetwork.com/press-release/2013-07-09/sentai-filmworks-licenses-watamote",
+        "text": "\"Sentai Filmworks Licenses WataMote ~ No Matter How I Look at it, It's You Guys' Fault I'm not Popular!\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130824094230/http://www.animenewsnetwork.com/press-release/2013-07-09/sentai-filmworks-licenses-watamote",
+        "text": "Archived"
+      },
+      {
+        "href": "http://nintendo.joystiq.com/2007/08/29/travis-touchdown-has-a-comfortable-home-life/",
+        "text": "\"Travis Touchdown has a comfortable home life\""
+      },
+      {
+        "href": "https://www.animenewsnetwork.com/review/otaku-unite",
+        "text": "\"Otaku Unite! - Review\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130824174339/http://www.animenewsnetwork.com/review/otaku-unite",
+        "text": "Archived"
+      },
+      {
+        "href": "https://vocal.media/geeks/otaku-girl-book-review-where-memes-and-literature-mix",
+        "text": "\"Otaku Girl (Book Review): Where Memes and Literature Mix\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Voice_Media_Group",
+        "text": "Voice Media Group"
+      },
+      {
+        "href": "https://web.archive.org/web/20120507221927/http://www.nri.co.jp/english/opinion/papers/2004/pdf/np200484.pdf",
+        "text": "\"The Otaku Group from a Business Perspective: Revaluation of Enthusiastic Consumers\""
+      },
+      {
+        "href": "http://www.nri.co.jp/english/opinion/papers/2004/pdf/np200484.pdf",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20120713033155/http://www.nri.co.jp/english/news/2005/051006.html",
+        "text": "\"New Market Scale Estimation for Otaku: Population of 1.72 Million with Market Scale of ¥411 Billion — NRI classifies 5 types of otaku group, proposing a \"New 3Cs\" marketing frame —\""
+      },
+      {
+        "href": "http://www.nri.co.jp/english/news/2005/051006.html",
+        "text": "the original"
+      },
+      {
+        "href": "http://www.startup-dating.com/2013/02/tokyo-otaku-mode-has-10-million-facebook-fans-but-now-what",
+        "text": "\"Tokyo Otaku Mode has 10 million Facebook fans but now what\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130816072102/http://www.startup-dating.com/2013/02/tokyo-otaku-mode-has-10-million-facebook-fans-but-now-what",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20170630031233/http://www.yanoresearch.com/press/press.php/001002",
+        "text": "\"Otaku Market in Japan: Key Research Findings 2012\""
+      },
+      {
+        "href": "http://www.yanoresearch.com/press/press.php/001002",
+        "text": "the original"
+      },
+      {
+        "href": "http://www.yanoresearch.com/press/pdf/1002.pdf",
+        "text": "\"Otaku Market in Japan: Key Research Findings 2011\""
+      },
+      {
+        "href": "https://web.archive.org/web/20141218055751/http://www.yanoresearch.com/press/pdf/1002.pdf",
+        "text": "Archived"
+      },
+      {
+        "href": "http://www.paradisearmy.com/PASOK10.HTM#341",
+        "text": "Dōjin Lingo (同人用語の基礎知識)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-9844576-5-6",
+        "text": "978-0-9844576-5-6"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.2307%2Fj.ctv1220mhm",
+        "text": "10.2307/j.ctv1220mhm"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4780-0509-4",
+        "text": "978-1-4780-0509-4"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/JSTOR_(identifier)",
+        "text": "JSTOR"
+      },
+      {
+        "href": "//www.jstor.org/stable/j.ctv1220mhm",
+        "text": "j.ctv1220mhm"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/1148100778",
+        "text": "1148100778"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:240980856",
+        "text": "240980856"
+      },
+      {
+        "href": "https://commons.wikimedia.org/wiki/Category:Otaku",
+        "text": "Otaku"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/Special:Search/otaku",
+        "text": "otaku"
+      },
+      {
+        "href": "http://www.cjas.org/~leng/otaku-e.htm",
+        "text": "\"I'm alone, but not lonely\""
+      },
+      {
+        "href": "https://www.academia.edu/35783297/Léthique_otaku_Tous_seuls_ensemble_la_crise_de_contact_et_autres_troubles_des_sens_1999",
+        "text": "https://www.academia.edu/35783297/Léthique_otaku_Tous_seuls_ensemble_la_crise_de_contact_et_autres_troubles_des_sens_1999"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maurice_Benayoun",
+        "text": "Maurice Benayoun"
+      },
+      {
+        "href": "http://www.cjas.org/~leng/otaku-p.htm",
+        "text": "The Politics of Otaku"
+      },
+      {
+        "href": "https://web.archive.org/web/20120306022123/http://www.brunel.ac.uk/4042/entertext4.1/lamarre1.pdf",
+        "text": "An Introduction to Otaku Movement"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thomas_LaMarre",
+        "text": "Thomas Lamarre"
+      },
+      {
+        "href": "https://web.archive.org/web/20111120225555/https://www.wired.com/wired/archive/14.07/posts.html?pg=5",
+        "text": "Meet the Geek Elite"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wired_Magazine",
+        "text": "Wired Magazine"
+      },
+      {
+        "href": "https://web.archive.org/web/20071010073854/http://www.transcript-verlag.de/ts313/ts313.htm",
+        "text": "Michael Manfé – Otakismus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Japanese_subcultures",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Japanese_subcultures",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/B%C5%8Ds%C5%8Dzoku",
+        "text": "Bōsōzoku"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cosplay",
+        "text": "Cosplay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yaoi_fandom",
+        "text": "Fujoshi/fudanshi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ganguro",
+        "text": "Ganguro"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Genderless_fashion_in_Japan",
+        "text": "Genderless"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gyaru",
+        "text": "Gyaru"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gyaruo",
+        "text": "gyaruo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kawaii",
+        "text": "Kawaii"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kogal",
+        "text": "Kogal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lolita_fashion",
+        "text": "Lolita"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Omorashi",
+        "text": "Omorashi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sukeban",
+        "text": "Sukeban"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gyaru-moji",
+        "text": "Gyaru-moji"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Visual_kei",
+        "text": "Visual kei"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Fandom",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Fandom",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fandom",
+        "text": "Fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fantasy_fandom",
+        "text": "Fantasy fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Furry_fandom",
+        "text": "Furry fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Science_fiction_fandom",
+        "text": "Science fiction fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yaoi_fandom",
+        "text": "Yaoi fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_and_manga_fandom",
+        "text": "Anime and manga fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibliophilia",
+        "text": "Bibliophilia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cinephilia",
+        "text": "Cinephilia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gamer",
+        "text": "Gamer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sports_fan",
+        "text": "Sports fan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire_fandom",
+        "text": "A Song of Ice and Fire"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Beatlemania",
+        "text": "Beatlemania"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Deadhead",
+        "text": "Deadhead"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doctor_Who_fandom",
+        "text": "Doctor Who"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Donaldism",
+        "text": "Donaldism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/EarthBound_fandom",
+        "text": "EarthBound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Harry_Potter_fandom",
+        "text": "Harry Potter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/James_Bond_fandom",
+        "text": "James Bond"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Janeite",
+        "text": "Janeite"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Juggalo",
+        "text": "Juggalo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Michael_Jackson_fandom",
+        "text": "Moonwalker"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mystery_Science_Theater_3000",
+        "text": "MST3K"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic_fandom",
+        "text": "MLP: FIM"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Parrothead",
+        "text": "Parrothead"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Shrek_fandom",
+        "text": "Shrek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sherlock_Holmes_fandom",
+        "text": "Sherlock Holmes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cultural_impact_of_Star_Wars",
+        "text": "Star Wars"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stargate_fandom",
+        "text": "Stargate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tolkien_fandom",
+        "text": "Tolkien"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Trekkie",
+        "text": "Trekkie"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Twilight_fandom",
+        "text": "Twilight"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anorak_(slang)",
+        "text": "Anorak"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anti-fan",
+        "text": "Anti-fan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cult_following",
+        "text": "Cult following"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_(person)",
+        "text": "Fan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fursona",
+        "text": "Furry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Geek",
+        "text": "Geek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Groupie",
+        "text": "Groupie"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nerd",
+        "text": "Nerd"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sasaeng_fan",
+        "text": "Sasaeng"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Shipping_(fandom)",
+        "text": "Shipper"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stan_(fan)",
+        "text": "Stan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tifosi",
+        "text": "Tifosi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ultras",
+        "text": "Ultras"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Waifu",
+        "text": "Waifu"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amateur_press_association",
+        "text": "Amateur press association"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Car_club",
+        "text": "Car club"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Boy_racer",
+        "text": "Boy racer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cruising_(driving)",
+        "text": "Cruising"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Import_scene",
+        "text": "Import scene"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hot_rod",
+        "text": "Hot rodding"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kustom_Kulture",
+        "text": "Kustom Kulture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lowrider_Club",
+        "text": "Lowrider Club"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Supercar_Season",
+        "text": "Supercar Season"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cosplay",
+        "text": "Cosplay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_club",
+        "text": "Fan club"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_convention",
+        "text": "Fan convention"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_fandom_names",
+        "text": "Fandom names"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Game_club",
+        "text": "Game club"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Historical_reenactment",
+        "text": "Historical reenactment"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Live_action_role-playing_game",
+        "text": "Live action role-playing game"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Motorcycle_club",
+        "text": "Motorcycle club"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Harley_Owners_Group",
+        "text": "Harley Owners Group"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Organization_for_Transformative_Works",
+        "text": "Organization for Transformative Works"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Railfan",
+        "text": "Railfan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stan_Twitter",
+        "text": "Stan Twitter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_music_video",
+        "text": "Anime music video"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Autograph_collecting",
+        "text": "Autograph collecting"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doujin",
+        "text": "Doujin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doujin_music",
+        "text": "Doujin music"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doujinshi",
+        "text": "Doujinshi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_art",
+        "text": "Fan art"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_edit",
+        "text": "Fan edit"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_fiction",
+        "text": "Fan fiction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_film",
+        "text": "Fan film"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_labor",
+        "text": "Fan labor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_mail",
+        "text": "Fan mail"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_rice",
+        "text": "Fan rice"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_translation",
+        "text": "Fan translation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fanac",
+        "text": "Fanac"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fangame",
+        "text": "Fangame"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doujin_soft",
+        "text": "Doujin soft"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mod_(video_games)",
+        "text": "Mod"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fansite",
+        "text": "Fansite"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fanspeak",
+        "text": "Fanspeak"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fanzine",
+        "text": "Fanzine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Filk_music",
+        "text": "Filk music"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Real_person_fiction",
+        "text": "Real person fiction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vidding",
+        "text": "Vidding"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Zine",
+        "text": "Zine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_convention",
+        "text": "Conventions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anime_convention",
+        "text": "Anime"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_anime_conventions",
+        "text": "list"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comic_book_convention",
+        "text": "Comic book"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_comic_book_conventions",
+        "text": "list"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doujinshi_convention",
+        "text": "Doujinshi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Furry_convention",
+        "text": "Furry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gaming_convention",
+        "text": "Gaming"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_gaming_conventions",
+        "text": "list"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Horror_convention",
+        "text": "Horror"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_multigenre_conventions",
+        "text": "Multigenre"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_professional_wrestling_conventions",
+        "text": "Professional wrestling"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Science_fiction_convention",
+        "text": "Science fiction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_science_fiction_conventions",
+        "text": "list"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_fan_conventions_by_date_of_founding",
+        "text": "by date of establishment"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Autograph",
+        "text": "Autograph"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_loyalty",
+        "text": "Fan loyalty"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fan_service",
+        "text": "Fan service"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Odagiri_effect",
+        "text": "Odagiri effect"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Authority_control",
+        "text": "Authority control"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q194448#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://d-nb.info/gnd/7698432-1",
+        "text": "Germany"
+      },
+      {
+        "href": "https://id.ndl.go.jp/auth/ndlna/01163039",
+        "text": "Japan"
+      },
+      {
+        "href": "https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph1079536&amp;CON_LNG=ENG",
+        "text": "Czech Republic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Category",
+        "text": "Categories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Otaku",
+        "text": "Otaku"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Fandom",
+        "text": "Fandom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:English-language_slang",
+        "text": "English-language slang"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Japanese_slang",
+        "text": "Japanese slang"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Japanese_values",
+        "text": "Japanese values"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:1983_neologisms",
+        "text": "1983 neologisms"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Epithets_related_to_nerd_culture",
+        "text": "Epithets related to nerd culture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:CS1_Japanese-language_sources_(ja)",
+        "text": "CS1 Japanese-language sources (ja)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:CS1_errors:_missing_periodical",
+        "text": "CS1 errors: missing periodical"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_containing_Japanese-language_text",
+        "text": "Articles containing Japanese-language text"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_Japanese-language_sources_(ja)",
+        "text": "Articles with Japanese-language sources (ja)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+        "text": "Articles with short description"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+        "text": "Short description is different from Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Good_articles",
+        "text": "Good articles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_containing_explicitly_cited_English-language_text",
+        "text": "Articles containing explicitly cited English-language text"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Commons_category_link_from_Wikidata",
+        "text": "Commons category link from Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_German-language_sources_(de)",
+        "text": "Articles with German-language sources (de)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_GND_identifiers",
+        "text": "Articles with GND identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_NDL_identifiers",
+        "text": "Articles with NDL identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_NKC_identifiers",
+        "text": "Articles with NKC identifiers"
+      }
+    ],
+    "text": [
+      "",
+      "otaku (japanese: おたく, オタク, or ヲタク) is a japanese word that describes people with consuming interests, particularly in anime, manga, video games, or computers. its contemporary use originated with a 1983 essay by akio nakamori in manga burikko. otaku may be used as a pejorative with its negativity stemming from a stereotypical view of otaku as social outcasts and the media's reporting on tsutomu miyazaki, \"the otaku murderer\", in 1989. according to studies published in 2013, the term has become less negative, and an increasing number of people now identify themselves as otaku,&#91;1&#93; both in japan and elsewhere. out of 137,734 teens surveyed in japan in 2013, 42.2% self-identified as a type of otaku.&#91;1&#93;",
+      "otaku subculture is a central theme of various anime and manga works, documentaries and academic research. the subculture began in the 1980s as changing social mentalities and the nurturing of otaku traits by japanese schools combined with the resignation of such individuals to what was then seen as inevitably becoming social outcasts. the subculture's birth coincided with the anime boom, after the release of works such as mobile suit gundam before it branched into comic market. the otaku subculture continued to grow with the expansion of the internet and media, as more anime, video games, shows, and comics were created.&#91;2&#93; the definition of otaku subsequently became more complex, and numerous classifications of otaku emerged. in 2005, the nomura research institute divided otaku into twelve groups and estimated the size and market impact of each of these groups. other institutions have split it further or focus on a single otaku interest. these publications classify distinct groups including anime, manga, camera, automobile, idol and electronics otaku. in 2005, the economic impact of otaku was estimated to be as high as ¥2&#160;trillion (us$18&#160;billion).&#91;3&#93;",
+      "otaku is derived from a japanese term for another person's house or family (お宅, otaku). the word can be used metaphorically, as a part of honorific speech in japanese as a second-person pronoun. in this usage, its literal translation is \"you\". it is associated with some dialects of western japanese and with housewives, and is less direct and more distant than intimate pronouns, such as anata, and masculine pronouns, such as kimi and omae.&#91;4&#93;",
+      "the origin of the pronoun's use among 1980s manga/anime fans is unclear. science fiction fans were using otaku to address owners of books by the late 1960s (in a sense of \"do[es] [your home] own this book?\").&#91;5&#93; social critic eiji ōtsuka posits that otaku was used because it allowed people meeting for the first time, such as at a convention, to interact from a comfortable distance.&#91;4&#93; one theory posits that otaku was popularized as a pronoun by science fiction author motoko arai in a 1981 essay in variety magazine,&#91;4&#93; and another posits that it was popularized by fans of anime studio gainax, some of whose founders came from tottori prefecture in western japan (where otaku is commonly used).&#91;6&#93; the pronoun was also used in the popular anime macross, first aired in 1982, by the characters hikaru ichijyo and lynn minmay, who address each other as otaku until they get to know each other better.&#91;7&#93;&#91;8&#93;&#91;9&#93;",
+      "the modern slang form, which is distinguished from the older usage by being written in hiragana (おたく), katakana (オタク or, less frequently, ヲタク) or rarely in rōmaji,&#91;10&#93; first appeared in public discourse in the 1980s, through the work of humorist and essayist akio nakamori. his 1983 series 'otaku' research (『おたく』の研究, \"otaku\" no kenkyū), printed in the lolicon magazine manga burikko, applied the term as pejorative for \"unpleasant\" fans, attacking their supposed poor fashion sense and physical appearance in particular.&#91;11&#93; nakamori was particularly critical of \"manga maniacs\" oriented to cute girl characters,&#91;11&#93; and explained his label otaku as the term of address used between junior high school kids at manga and anime conventions.&#91;12&#93;",
+      "in 1989, the case of tsutomu miyazaki, \"the otaku murderer\", brought the fandom, very negatively, to national attention.&#91;13&#93; miyazaki, who randomly chose and murdered four girls, had a collection of 5,763 video tapes, some containing anime and slasher films that were found interspersed with videos and pictures of his victims. later that year, the contemporary knowledge magazine bessatsu takarajima dedicated its 104th issue to the topic of otaku. it was called otaku no hon (おたくの本, lit. the book of otaku) and delved into the subculture of otaku with 19 articles by otaku insiders, among them akio nakamori. this publication has been claimed by scholar rudyard pesimo to have popularized the term.&#91;14&#93;",
+      "in modern japanese slang, the term otaku is mostly equivalent to \"geek\" or \"nerd\" (both in the broad sense; a technological geek would be gijutsu otaku (技術オタク)) and an academic nerd would be bunkakei otaku (文化系オタク) or gariben (ガリ勉)), but in a more derogatory manner than used in the west.&#91;13&#93; it is also applied to any fan of any particular theme, topic, hobby or form of entertainment.&#91;13&#93; \"when these people are referred to as otaku, they are judged for their behaviors - and people suddenly see an otaku as a person unable to relate to reality.\"&#91;15&#93;&#91;16&#93;  the word entered english as a loanword from the japanese language. it is typically used to refer to a fan of anime/manga but can also refer to japanese video games or japanese culture in general. the american magazine otaku usa popularizes and covers these aspects.&#91;17&#93;&#91;18&#93; the usage of the word is a source of contention among some fans, owing to its negative connotations and stereotyping of the fandom. widespread english exposure to the term came in 1988 with the release of gunbuster, which refers to anime fans as otaku. gunbuster was released officially in english in march 1990. the term's usage spread throughout the usenet group rec.arts.anime with discussions about otaku no video&#39;s portrayal of otaku before its 1994 english release. positive and negative aspects, including the pejorative usage, were intermixed.&#91;18&#93; the term was also popularized by william gibson's 1996 novel idoru, which references otaku.&#91;19&#93;",
+      "morikawa kaichirō identifies the subculture as distinctly japanese, a product of the school system and society. japanese schools have a class structure which functions as a caste system, but clubs are an exception to the social hierarchy. in these clubs, a student's interests will be recognized and nurtured, catering to the interests of otaku. secondly, the vertical structure of japanese society identifies the value of individuals by their success. until the late 1980s, unathletic and unattractive males focused on academics, hoping to secure a good job and marry to raise their social standing. those unable to succeed socially focused instead on their interests, often into adulthood, with their lifestyle centering on those interests, furthering the creation of the otaku subculture.&#91;13&#93;",
+      "",
+      "the 1989 \"otaku murderer\" case gave a negative connotation to the fandom from which it has not fully recovered.&#91;13&#93; the identification of otaku turned negative in late 2004 when kaoru kobayashi kidnapped, sexually assaulted, and murdered a seven-year-old first-grade student. japanese journalist akihiro ōtani suspected that kobayashi's crime was committed by a member of the figure moe zoku even before his arrest.&#91;20&#93; although kobayashi was not an otaku, the degree of social hostility against otaku increased. otaku were seen by law enforcement as possible suspects for sex crimes, and local governments called for stricter laws controlling the depiction of eroticism in otaku materials.&#91;21&#93;",
+      "not all attention has been negative. in his book, otaku, hiroki azuma observed: \"between 2001 and 2007, the otaku forms and markets quite rapidly won social recognition in japan\", citing the fact that \"[i]n 2003, hayao miyazaki won the academy award for his spirited away; around the same time takashi murakami achieved recognition for otaku-like designs; in 2004, the japanese pavilion in the 2004 international architecture exhibition of the venice biennale (biennale architecture) featured otaku. in 2005, the word moe - one of the keywords of the present volume - was chosen as one of the top ten \"buzzwords of the year.\"&#91;22&#93; the former prime minister of japantaro aso has also claimed to be an otaku, using this subculture to promote japan in foreign affairs.&#91;23&#93; in 2013, a japanese study of 137,734 people found that 42.2% self-identify as a type of otaku. this study suggests that the stigma of the word has vanished, and the term has been embraced by many.&#91;1&#93;marie kondo told forbeswomen in 2020: \"i credit being an otaku with helping me to focus deeply, which definitely contributed to my success.\"&#91;24&#93;",
+      "the district of akihabara in tokyo, where there are maid cafés featuring waitresses who dress up and act like maids or anime characters, is a notable attraction center for otaku. akihabara also has dozens of stores specializing in anime, manga, retro video games, figurines, card games and other collectibles.&#91;25&#93; another popular location is otome road in ikebukuro, tokyo. in nagoya, students from nagoya city university started a project on ways to help promote hidden tourist attractions related to the otaku culture to attract more otaku to the city.&#91;26&#93;",
+      "there are specific terms for different types of otaku, including fujoshi (腐女子, lit. \"rotten girl\"), a self-mockingly pejorative japanese term for female fans of yaoi, which focuses on homosexual male relationships.&#91;27&#93;reki-jo are female otaku who are interested in japanese history. some terms refer to a location, such as akiba-kei, a slang term meaning \"akihabara-style\" which applies to those familiar with akihabara's culture.  another is wotagei or otagei (ヲタ芸 or オタ芸), a type of cheering that is part of akiba-kei.  other terms, such as itasha (痛車), literally \"painful (cringy) car\", describe vehicles decorated with fictional characters, especially bishōjo game or eroge characters.&#91;28&#93;&#91;29&#93;",
+      "otaku often participate in self-mocking through the production or interest in humor directed at their subculture. anime and manga otaku are the subject of numerous self-critical works, such as otaku no video, which contains a live-interview mockumentary that pokes fun at the otaku subculture and includes gainax's own staff as the interviewees.&#91;30&#93; other works depict otaku subculture less critically, such as genshiken and comic party. a well-known light novel, which later received a manga and anime adaptation, is welcome to the n.h.k., which focuses on the subcultures popular with otaku and highlights other social outcasts such as the hikikomori and neets. works that focus on an otaku character include watamote, the story of an unattractive and unsociable otome gameotaku who exhibits delusions about her social status;&#91;31&#93; and no more heroes, a video game about an otaku assassin named travis touchdown and his surrealistic adventures inspired by anime and manga.&#91;32&#93; media about otaku also exist outside of japan, such as the american documentary otaku unite! which focuses on the american side of the otaku culture,&#91;33&#93; and the filipino novel otaku girl which tells the story of a virtual reality world where otaku can role-play and use the powers of their favorite anime characters.&#91;34&#93;",
+      "the nomura research institute (nri) has made two major studies into otaku, the first in 2004 and a revised study with a more specific definition in 2005.&#91;35&#93;&#91;36&#93; the 2005 study defines twelve major fields of otaku interests. of these groups, manga (japanese comics) was the largest, with 350,000 individuals and ¥83&#160;billion market scale. idolotaku were the next largest group, with 280,000 individuals and ¥61&#160;billion. travel otaku with 250,000 individuals and ¥81&#160;billion. pc otaku with 190,000 individuals and ¥36&#160;billion. video game otaku with 160,000 individuals and ¥21&#160;billion. automobile otaku with 140,000 individuals and ¥54&#160;billion. animation (anime) otaku with 110,000 individuals and ¥20&#160;billion. the remaining five categories include mobile it equipment otaku, with 70,000 individuals and ¥8&#160;billion; audio-visual equipment otaku, with 60,000 individuals and ¥12&#160;billion; camera otaku, with 50,000 individuals and ¥18&#160;billion; fashion otaku, with 40,000 individuals and ¥13&#160;billion; and railway otaku, with 20,000 individuals and ¥4&#160;billion. these values were partially released with a much higher estimation in 2004, but this definition focused on the consumerism and not the \"unique psychological characteristics\" of otaku used in the 2005 study.&#91;35&#93;&#91;36&#93;",
+      "nri's 2005 study also put forth five archetypes of otaku. the first is the family-oriented otaku, who has broad interests and is more mature than other otaku; their object of interest is secretive and they are \"closet otaku\". the second is the serious \"leaving my own mark on the world\" otaku, with interests in mechanical or business personality fields. the third type is the \"media-sensitive multiple interest\" otaku, whose diverse interests are shared with others. the fourth type is the \"outgoing and assertive otaku\", who gain recognition by promoting their hobby. the last is the \"fan magazine-obsessed otaku\", which is predominately female with a small group of males being the \"moe type\"; the secret hobby is focused on the production or interest in fan works.&#91;36&#93; the hamagin research institute found that moe-related content was worth ¥88.8&#160;billion ($807&#160;million) in 2005, and one analyst estimated the market could be as much as ¥2&#160;trillion ($18&#160;billion).&#91;3&#93; japan-based tokyo otaku mode, a place for news relating to otaku, has been liked on facebook almost 10&#160;million times.&#91;37&#93;",
+      "other classifications of otaku interests include vocaloid, cosplay, figures and professional wrestling as categorized by the yano research institute. yano research reports and tracks market growth and trends in sectors heavily influenced by otaku consumerism. in 2012, it noted around 30% of growth in dating sim and online gaming otaku, while vocaloid, cosplay, idols and maid services grew by 10%, confirming its 2011 predictions.&#91;38&#93;&#91;39&#93;",
+      "ōkina otomodachi (大きなお友達) is a japanese phrase that literally means \"a big friend\" or \"an adult friend\".&#91;40&#93; japanese otaku use it to describe themselves as adult fans of an anime, a manga, or a tv show that is originally aimed at children.&#91;41&#93; note that a parent who watches such a show with his or her children is not considered an ōkina otomodachi. an ōkina otomodachi is not a parent who buys anime dvds for his or her children to watch. ōkina otomodachi are those who buy children's anime for themselves.  also, if the work is obviously aimed at adults, a fan of it is not an ōkina otomodachi. hence ōkina otomodachi and otaku are different concepts.\n",
+      ""
+    ],
+    "imageNames": [
+      "19px-Symbol_support_vote.svg.png",
+      "260px-Akihabara_picture.jpg",
+      "70px-Anime_eye.svg.png",
+      "16px-Wikipe-tan_face.svg.png",
+      "220px-Hinagiku_Katsura_itasha_side_front_20090726.jpg",
+      "220px-Railfantokyo.jpg",
+      "32px-Flag_of_Japan.svg.png",
+      "27px-Dragon-149393.svg.png",
+      "28px-WPVG_icon_2016.svg.png",
+      "30px-Commons-logo.svg.png",
+      "40px-Wiktionary-logo-en-v2.svg.png",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"
+    ]
+  }
+}
